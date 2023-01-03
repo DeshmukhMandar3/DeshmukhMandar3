@@ -49,7 +49,7 @@
 
 <br><hr>
 <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=DeshmukhMandar3&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Mandar's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=DeshmukhMandar3&theme=react-dark&hide_border=true" /></a>
 
 
 <br>
