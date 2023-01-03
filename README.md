@@ -16,6 +16,8 @@
 
 - 📄 Have a look at my [Resume](https://drive.google.com/file/d/19hVto_OtjE1IALwcBG89TqeCGpZnY0nI/view?usp=share_link)
 
+- 👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/mandar-deshmukh-62821b189/)
+
 <!-- - 💬 ask me about MERN 
 
 - 😄 Pronouns: He/His -->
