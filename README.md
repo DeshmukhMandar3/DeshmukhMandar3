@@ -43,9 +43,11 @@
 <br>
 
 <h2 align="left">📊 My Github Stats:</h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deshmukhmandar3&show_icons=true&locale=en&layout=compact" alt="deshmukhmandar3" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshmukhmandar3" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=deshmukhmandar3&show_icons=true" alt="deshmukhmandar3" /></p>
+
+
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deshmukhmandar3&" alt="deshmukhmandar3" /></p>
