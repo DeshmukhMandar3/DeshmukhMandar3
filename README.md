@@ -1,4 +1,4 @@
-![MasterHead](https://www.skilltouchng.com/images/compschool_tabs/full-stack-developer%20abuja%20learnwebdevelopment%20fast.png)
+
 
 <h1 align="center">Hi 👋, I'm Mandar Deshmukh</h1>
 <h2 align="center">A Full Stack Web Developer</h2>
