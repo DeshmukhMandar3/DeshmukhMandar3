@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mandardeshmukh.mud@gmail.com**
 
-- 📄 Have a look at my [Resume](https://drive.google.com/file/d/1ADgeqR-cKo3-YCr7dG_m-8fVMj-ELjmv/view?usp=drivesdk)
+- 📄 Have a look at my [Resume](https://drive.google.com/file/d/19hVto_OtjE1IALwcBG89TqeCGpZnY0nI/view?usp=sharing)
 
 - 👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/mandar-deshmukh-62821b189/)
 
